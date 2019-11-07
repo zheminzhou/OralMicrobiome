@@ -25,3 +25,12 @@
 |4. SPARSE.species.profile.curves| Rarefaction curves. Figure 5 |
 |5. SPARSE.species.profile.sample.dist| Abundance distances of samples for NJ tree. Figure 1B |
 |6. SPARSE.species.profile.taxon.dist| Abundance distances of species for NJ tree. Figures 4 & S2 |
+
+### NOTE: 
+Use: 
+```
+ SPARSE_ml.py --help
+ SPARSE_curve.py --help
+ SPARSE_dist.py --help
+```
+To obtain detailed help on the scripts. 
