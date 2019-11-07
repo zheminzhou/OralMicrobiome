@@ -1,10 +1,10 @@
-### * Dataset_S1.Smutans.tar.gz
+### Dataset_S1.Smutans.tar.gz
 31 _Streptococcus mutans_ genomes reconstructed from metagenomic data
 
-### * Dataset_S2.Ssobrinus.tar.gz
+### Dataset_S2.Ssobrinus.tar.gz
 315 _Streptococcus sobrinus_ genomes reconstructed from metagenomic data
 
-### * Dataset_S3.SPARSE.tar.gz
+### Dataset_S3.SPARSE.tar.gz
 |**Python Scripts** |      |
 |----------------|------|
 |1. SPARSE_ml.py   | Fit machine learning models on SPARSE results |
@@ -26,7 +26,7 @@
 |5. SPARSE.species.profile.sample.dist| Abundance distances of samples for NJ tree. Figure 1B |
 |6. SPARSE.species.profile.taxon.dist| Abundance distances of species for NJ tree. Figures 4 & S2 |
 
-#### Use: 
+##### Use: 
 ```
  SPARSE_ml.py --help
  SPARSE_curve.py --help
