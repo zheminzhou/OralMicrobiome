@@ -6,7 +6,7 @@
 
 ### Dataset_S3.SPARSE.tar.gz
 |**Python Scripts** |      |
-|----------------|------|
+|:----------------:|------|
 |1. SPARSE_ml.py   | Fit machine learning models on SPARSE results |
 |2. SPARSE_curve.py| Calculate rarefaction curve on SPARSE results |
 |3. SPARSE_dist.py | Calculate Euclidian distances of samples and species|
@@ -28,8 +28,8 @@
 
 ##### Use: 
 ```
- SPARSE_ml.py --help
- SPARSE_curve.py --help
- SPARSE_dist.py --help
+ python SPARSE_ml.py --help
+ python SPARSE_curve.py --help
+ python SPARSE_dist.py --help
 ```
 To obtain detailed help on the scripts. 
