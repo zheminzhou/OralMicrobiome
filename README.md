@@ -1,10 +1,10 @@
-### Dataset_S1.Smutans.tar.gz
-31 Streptococcus mutans genomes reconstructed from metagenomic data
+### * Dataset_S1.Smutans.tar.gz
+31 _Streptococcus mutans_ genomes reconstructed from metagenomic data
 
-### Dataset_S2.Ssobrinus.tar.gz
-315 Streptococcus sobrinus genomes reconstructed from metagenomic data
+### * Dataset_S2.Ssobrinus.tar.gz
+315 _Streptococcus sobrinus_ genomes reconstructed from metagenomic data
 
-### Dataset_S3.SPARSE.tar.gz
+### * Dataset_S3.SPARSE.tar.gz
 |**Python Scripts** |      |
 |----------------|------|
 |1. SPARSE_ml.py   | Fit machine learning models on SPARSE results |
