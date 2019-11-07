@@ -31,9 +31,19 @@
 |6. SPARSE.species.profile.taxon.dist| Abundance distances of species for NJ tree. Figures 4 & S2 |
 
 ##### Tested on Python >= 3.6
-Install required libraries:
+* Unpack TAR ball:
+```
+tar vxzf Dataset_S3.SPARSE.tar.gz
+```
+
+* Install required libraries:
 ```
 pip install -r requirements.txt
+```
+
+* Get all outputs:
+```
+bash commands.bash
 ```
 
 ##### Use: 
