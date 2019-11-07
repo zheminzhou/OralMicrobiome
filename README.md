@@ -25,7 +25,7 @@
 |----------------|------|
 |1. SPARSE.species.profile.SVM| Support Vector Machine results. Figure 2 |
 |2. SPARSE.species.profile.PCA| PCA results. Figure S1 |
-|3. SPARSE.species.profile.UMAP| UMAP results. Figures 1A & S1 |
+|3. SPARSE.species.profile.UMAP| UMAP & K-mean clustering. Figures 1A & S1 |
 |4. SPARSE.species.profile.curves| Rarefaction curves. Figure 5 |
 |5. SPARSE.species.profile.sample.dist| Abundance distances of samples for NJ tree. Figure 1B |
 |6. SPARSE.species.profile.taxon.dist| Abundance distances of species for NJ tree. Figures 4 & S2 |
