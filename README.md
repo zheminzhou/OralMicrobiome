@@ -18,7 +18,8 @@
 
 |**Batch workflow**| |
 |----------------|------|
-|1. commands.bash| All the commands to generate results |
+|1. requirements.txt| Required python libraries |
+|2. commands.bash| All the commands to generate results |
 
 |**Outputs**| |
 |----------------|------|
@@ -28,6 +29,12 @@
 |4. SPARSE.species.profile.curves| Rarefaction curves. Figure 5 |
 |5. SPARSE.species.profile.sample.dist| Abundance distances of samples for NJ tree. Figure 1B |
 |6. SPARSE.species.profile.taxon.dist| Abundance distances of species for NJ tree. Figures 4 & S2 |
+
+##### Tested on Python >= 3.6
+Install required libraries:
+```
+pip install -r requirements.txt
+```
 
 ##### Use: 
 ```
