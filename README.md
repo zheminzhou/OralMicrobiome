@@ -2,7 +2,7 @@
 31 _Streptococcus mutans_ genomes reconstructed from metagenomic data
 
 ### Dataset_S2.Ssobrinus.tar.gz
-315 _Streptococcus sobrinus_ genomes reconstructed from metagenomic data
+15 _Streptococcus sobrinus_ genomes reconstructed from metagenomic data
 
 ### Dataset_S3.SPARSE.tar.gz
 |**Python Scripts** |      |
