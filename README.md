@@ -1,10 +1,10 @@
-### Dataset_S1.Smutans.tar.gz
+### Dataset S1.tar.gz
 31 _Streptococcus mutans_ genomes reconstructed from metagenomic data
 
-### Dataset_S2.Ssobrinus.tar.gz
+### Dataset S2.tar.gz
 15 _Streptococcus sobrinus_ genomes reconstructed from metagenomic data
 
-### Dataset_S3.SPARSE.tar.gz
+### Dataset S3.tar.gz
 |**Python Scripts** |      |
 |----------------|------|
 |1. SPARSE_ml.py   | Fit machine learning models on SPARSE results |
@@ -33,7 +33,7 @@
 ##### Tested on Python >= 3.6
 * Unpack TAR ball:
 ```
-tar vxzf Dataset_S3.SPARSE.tar.gz
+tar vxzf "Dataset S3.tar.gz"
 ```
 
 * Install required libraries:
